@@ -1,4 +1,4 @@
-# Problem no 3 : Reverse a number using recursive function
+# Reverse a number using recursive function
 def reverse_number(num,r):
     if (num == 0):
         return r
