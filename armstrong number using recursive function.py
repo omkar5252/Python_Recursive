@@ -1,4 +1,4 @@
-# Problem no 2 : armstrong number using recursive function
+# armstrong number using recursive function
 
 def armstrong(num,power):
     if (num == 0):
